@@ -9,7 +9,7 @@ html {
 body {
   height: 100%;
   background-color: rgb(254,250,539);
-  background-image: url(photos/logo_limb.jpg);
+  background-image: url(logo_limb.jpg);
   background-repeat: no-repeat;   /*~~~~~ 画像を１つだけ配置 ~~~~~*/
   background-position: center center;   /*~~~~~ 画像を中央に固定 ~~~~~*/
   background-attachment: fixed;   /*~~~~~ 画像を画面に固定 ~~~~~*/
